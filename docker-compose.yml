@@ -1,8 +1,9 @@
-version: '3'
+version: '3.4'
 services:
   backend:
-    build: ./backend/
-    network: host
+    build: 
+      context: ./backend/
+      network: host
     container_name: backend-container
     restart: unless-stopped
     environment:
@@ -13,8 +14,9 @@ services:
       - 8000:8000
 
   frontend:
-    build: ./frontend/
-    network: host
+    build: 
+      context: ./frontend/
+      network: host
     container_name: frontend-container
     restart: unless-stopped
     command: npm run serve
