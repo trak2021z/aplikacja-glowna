@@ -2,6 +2,7 @@ version: '3'
 services:
   backend:
     build: ./backend/
+    network: host
     container_name: backend-container
     restart: unless-stopped
     environment:
@@ -13,6 +14,7 @@ services:
 
   frontend:
     build: ./frontend/
+    network: host
     container_name: frontend-container
     restart: unless-stopped
     command: npm run serve
