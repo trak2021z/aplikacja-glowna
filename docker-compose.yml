@@ -6,13 +6,17 @@ services:
       network: host
     container_name: backend-container
     restart: unless-stopped
+    volumes:
+      - ./backend/BackendServer/:/usr/src/app/
     environment:
       - DJANGO_SUPERUSER_PASSWORD=admin 
-  # volumes: nwm jeszcze
+      - LC_TIME="pl_PL"
     command: python3 ./manage.py runserver 0.0.0.0:8000
     ports: 
       - 8000:8000
-
+    depends_on:
+      - rabbitmq
+      
   frontend:
     build: 
       context: ./frontend/
@@ -20,7 +24,43 @@ services:
     container_name: frontend-container
     restart: unless-stopped
     command: npm run serve
+    environment:
+      - LC_TIME="pl_PL"
     ports:
       - 8081:8080
     depends_on:
       - backend
+
+  rabbitmq:
+      hostname: rabbit
+      image: rabbitmq:3-management
+      environment:
+          - RABBITMQ_DEFAULT_USER=guest 
+          - RABBITMQ_DEFAULT_PASS=guest
+          - LC_TIME="pl_PL"
+      ports:
+          - "5672:5672"
+          - "15672:15672"  
+
+  celery:
+    build: ./backend/
+    command: celery -A Exchange  worker -l info
+    volumes:
+      - ./backend/BackendServer/:/usr/src/app/
+    environment:
+      - DEBUG=1
+      - LC_TIME="pl_PL"
+    depends_on:
+      - rabbitmq
+  
+  celery-beat:
+    build: ./backend/
+    command: celery -A Exchange  beat -l info
+    volumes:
+      - ./backend/BackendServer:/usr/src/app/
+    environment:
+      - DEBUG=1
+      - LC_TIME="pl_PL"
+    depends_on:
+      - rabbitmq
+
