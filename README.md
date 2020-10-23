@@ -8,7 +8,12 @@
 ``` cd aplikacja-glowna ```
 
 ### Uruchomienie aplikacji:
-``` docker-compose up ```
+``` docker-compose up -d --build```
+parametry sprawiają że aplikacja będzie postawiona od zera i nie będzie wykorzystywać starych komponentów
+
+### Posprzątanie 
+```docker-compose down -v --rmi all --remove-orphans```
+
 
 ### Korzystanie z aplikacji:
 Należy wejść na adres http://127.0.0.1:8081/register
