@@ -6,61 +6,62 @@ services:
       network: host
     container_name: backend-container
     restart: unless-stopped
-    volumes:
-      - ./backend/BackendServer/:/usr/src/app/
     environment:
       - DJANGO_SUPERUSER_PASSWORD=admin 
-      - LC_TIME="pl_PL"
     command: python3 ./manage.py runserver 0.0.0.0:8000
     ports: 
       - 8000:8000
     depends_on:
       - rabbitmq
+    networks:
+      - stonks
       
   frontend:
     build: 
       context: ./frontend/
-      network: host
     container_name: frontend-container
     restart: unless-stopped
-    command: npm run serve
-    environment:
-      - LC_TIME="pl_PL"
     ports:
-      - 8081:8080
+      - 8080:80
     depends_on:
       - backend
+    networks:
+      - stonks
 
   rabbitmq:
-      hostname: rabbit
-      image: rabbitmq:3-management
-      environment:
-          - RABBITMQ_DEFAULT_USER=guest 
-          - RABBITMQ_DEFAULT_PASS=guest
-          - LC_TIME="pl_PL"
-      ports:
-          - "5672:5672"
-          - "15672:15672"  
+    hostname: rabbit
+    image: rabbitmq:3-management
+    environment:
+        - RABBITMQ_DEFAULT_USER=guest 
+        - RABBITMQ_DEFAULT_PASS=guest
+    ports:
+        - "15672:15672"  
+        - "5672:5672"
+    networks:
+      - stonks
 
   celery:
     build: ./backend/
     command: celery -A Exchange  worker -l info
     volumes:
       - ./backend/BackendServer/:/usr/src/app/
-    environment:
-      - DEBUG=1
-      - LC_TIME="pl_PL"
     depends_on:
       - rabbitmq
-  
+    networks:
+      - stonks
+      
   celery-beat:
     build: ./backend/
     command: celery -A Exchange  beat -l info
     volumes:
       - ./backend/BackendServer:/usr/src/app/
     environment:
-      - DEBUG=1
       - LC_TIME="pl_PL"
     depends_on:
       - rabbitmq
+    networks:
+      - stonks
 
+networks:
+  stonks:
+    driver: bridge
