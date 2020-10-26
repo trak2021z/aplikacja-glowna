@@ -1,6 +1,8 @@
 [submodule "backend"]
 	path = backend
+	branch = main
 	url = https://github.com/aplikacje-internetowe-l2/backend-aplikacji-glownej
 [submodule "frontend"]
 	path = frontend
+	branch = main
 	url = https://github.com/aplikacje-internetowe-l2/frontend-aplikacji-glownej
