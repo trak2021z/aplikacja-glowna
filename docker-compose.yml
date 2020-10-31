@@ -91,3 +91,6 @@ services:
 networks:
   stonks:
     driver: bridge
+
+volumes:
+  pgdata:
