@@ -1,5 +1,18 @@
 version: '3.4'
 services:
+  db:
+    image: postgres
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=postgres
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - 5432:5432
+    networks:
+      - stonks
+      
   backend:
     build: 
       context: ./backend/
@@ -12,7 +25,7 @@ services:
       - DJANGO_SUPERUSER_PASSWORD=admin 
       - CELERY_BROKER_URL=amqp://guest:guest@rabbitmq:5672
       - LC_TIME="pl_PL"
-    command: python3 ./manage.py runserver 0.0.0.0:8000
+    command: sh -c './wait-for db:5432 -- ./db-ops.sh && python3 ./manage.py runserver 0.0.0.0:8000'
     ports: 
       - 8000:8000
     depends_on:
@@ -78,3 +91,6 @@ services:
 networks:
   stonks:
     driver: bridge
+
+volumes:
+  pgdata:
