@@ -26,6 +26,7 @@ services:
       - CELERY_BROKER_URL=amqp://guest:guest@rabbitmq:5672
       - LC_TIME="pl_PL"
       - RUN_MEMCACHE=TRUE
+      - USE_POSTGRES=TRUE
     command: sh -c '(./wait-for db:5432 -- ./db-ops.sh ) && memcached start -u memcached -d && (nohup python3 cpu_usage.py &) &&  python3 ./manage.py runserver 0.0.0.0:8000'
     ports: 
       - 8000:8000
@@ -69,6 +70,7 @@ services:
     environment:
       - CELERY_BROKER_URL=amqp://guest:guest@rabbitmq:5672
       - LC_TIME="pl_PL"
+      - USE_POSTGRES=TRUE
     volumes:
       - ./backend/BackendServer/:/app/
     depends_on:
@@ -81,6 +83,7 @@ services:
     command: celery -A Exchange  beat -l info
     volumes:
       - ./backend/BackendServer:/app/
+      - USE_POSTGRES=TRUE
     environment:
       - CELERY_BROKER_URL=amqp://guest:guest@rabbitmq:5672
       - LC_TIME="pl_PL"
