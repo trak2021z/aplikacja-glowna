@@ -69,9 +69,9 @@ services:
     command: celery -A Exchange  beat -l info
     volumes:
       - ./backend/BackendServer:/app/
-      - USE_POSTGRES=TRUE
     environment:
       - CELERY_BROKER_URL=amqp://guest:guest@rabbitmq:5672
+      - USE_POSTGRES=TRUE
       - LC_TIME="pl_PL"
     depends_on:
       - frontend
