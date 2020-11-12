@@ -10,9 +10,7 @@ services:
       - pgdata:/var/lib/postgresql/data
     ports:
       - 5432:5432
-    networks:
-      - stonks
-      
+
   backend:
     build: 
       context: ./backend/
@@ -32,9 +30,7 @@ services:
       - 8000:8000
     depends_on:
       - rabbitmq
-    networks:
-      - stonks
-      
+
   frontend:
     build: 
       context: ./frontend/
@@ -47,8 +43,6 @@ services:
       - 8081:8080
     depends_on:
       - backend
-    networks:
-      - stonks
 
   rabbitmq:
     hostname: rabbit
@@ -61,8 +55,6 @@ services:
     ports:
         - "15672:15672"  
         - "5672:5672"
-    networks:
-      - stonks
 
   celery:
     build: ./backend/
@@ -75,9 +67,7 @@ services:
       - ./backend/BackendServer/:/app/
     depends_on:
       - frontend
-    networks:
-      - stonks
-      
+     
   celery-beat:
     build: ./backend/
     command: celery -A Exchange  beat -l info
@@ -89,12 +79,6 @@ services:
       - LC_TIME="pl_PL"
     depends_on:
       - frontend
-    networks:
-      - stonks
-
-networks:
-  stonks:
-    driver: bridge
 
 volumes:
   pgdata:
