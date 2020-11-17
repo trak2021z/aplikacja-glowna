@@ -2,8 +2,7 @@
 
 # poza serwerem produkcyjym nie zadziala
 
-
- set -e 
+set -e 
  
 working_dir=$1
 lock_file_or_dir="./.update.lock"
@@ -46,12 +45,26 @@ if is_already_running "${cmd_check_lock}"; then
 fi
 
 create_lock "${cmd_locking}"
+# NIE DOTYKAC NICZEGO POWYZEJ
+###############################################################
 
-echo "Updating main application"
-docker service update --image misieq/weii_ai_aplikacja_glowna_backend app_glowna_backend
-docker service update --image misieq/weii_ai_aplikacja_glowna_backend app_glowna_celery
-docker service update --image misieq/weii_ai_aplikacja_glowna_frontend app_glowna_frontend
+mkdir -p ./logs
+rm -fr ./logs/*
+
+services=$(docker service ls -q)
+
+for service in $services; do
+  service_name=$(docker service ls --format "{{.Name}}" --filter "id=$service")
+  echo $service_name
+  if [[ $service_name == *"glowna"* ]]; then
+    echo $service_name
+    docker service logs --tail 100  $service_name >& ./logs/log_$service_name.log 
+  fi
+done
+
+git add .
+git commit -m "Pushing logs at $(date))
 
 
-
+##################################################################
 remove_lock "${cmd_unlocking}"

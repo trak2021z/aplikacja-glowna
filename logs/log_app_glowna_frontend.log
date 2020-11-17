@@ -1,0 +1,200 @@
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 49% building 331/334 modules 3 active /app/node_modules/core-js/internals/this-number-value.js
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 49% building 331/335 modules 4 active /app/node_modules/core-js/internals/string-repeat.js
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 49% building 331/336 modules 5 active /app/node_modules/vuelidate/lib/withParamsBrowser.js
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 49% building 332/336 modules 4 active /app/node_modules/vuelidate/lib/withParamsBrowser.js
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 49% building 333/336 modules 3 active /app/node_modules/vuelidate/lib/withParamsBrowser.js
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 50% building 334/336 modules 2 active /app/node_modules/vuelidate/lib/withParamsBrowser.js
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 50% building 335/336 modules 1 active /app/node_modules/vuelidate/lib/withParamsBrowser.js
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 50% building 335/337 modules 2 active /app/node_modules/jw-paginate/lib/jw-paginate.js
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 50% building 336/337 modules 1 active /app/node_modules/jw-paginate/lib/jw-paginate.js
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 50% building 337/337 modules 0 active 
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 50% building 337/338 modules 1 active /app/node_modules/core-js/internals/whitespaces.js
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 50% building 338/338 modules 0 active 
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 70% building 338/338 modules 0 active 
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 70% finish module graph
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 70% finish module graph FlagDependencyExportsPlugin
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 70% sealing
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 70% sealing WarnCaseSensitiveModulesPlugin
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 72% basic dependencies optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 72% dependencies optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 73% advanced dependencies optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 73% after dependencies optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 71% chunk graph
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 71% after chunk graph
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 71% after chunk graph WebAssemblyModulesPlugin
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 74% optimizing
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 74% basic module optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 75% module optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 75% advanced module optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 76% after module optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 76% basic chunk optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 76% basic chunk optimization EnsureChunkConditionsPlugin
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 76% basic chunk optimization RemoveEmptyChunksPlugin
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 76% basic chunk optimization MergeDuplicateChunksPlugin
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 77% chunk optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 77% advanced chunk optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 77% advanced chunk optimization SplitChunksPlugin
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 77% advanced chunk optimization RemoveEmptyChunksPlugin
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 77% after chunk optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 78% module and chunk tree optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 78% after module and chunk tree optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 79% basic chunk modules optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 80% chunk modules optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 80% advanced chunk modules optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 81% after chunk modules optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 81% module reviving
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 81% module reviving RecordIdsPlugin
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 82% module order optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 82% advanced module order optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 83% before module ids
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 83% before module ids NamedModulesPlugin
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 83% module ids
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 84% module id optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 84% module id optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 85% chunk reviving
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 85% chunk reviving RecordIdsPlugin
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 85% chunk order optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 85% chunk order optimization OccurrenceOrderChunkIdsPlugin
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 86% before chunk ids
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 86% before chunk ids NamedChunksPlugin
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 86% chunk id optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 87% after chunk id optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 87% record modules
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 87% record modules RecordIdsPlugin
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 87% record chunks
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 87% record chunks RecordIdsPlugin
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 88% hashing
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 88% after hashing
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 88% after hashing HotModuleReplacementPlugin
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 89% record hash
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 89% module assets processing
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 90% chunk assets processing
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 90% additional chunk assets processing
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 90% additional chunk assets processing HotModuleReplacementPlugin
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 91% recording
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 91% recording HotModuleReplacementPlugin
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 92% additional asset processing
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 92% chunk asset optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 93% after chunk asset optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 93% asset optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 94% after asset optimization
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 94% after seal
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 95% emitting
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 95% emitting HtmlWebpackPlugin
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 95% emitting CopyPlugin
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 98% after emitting
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 98% after emitting CopyPlugin
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    |  DONE  Compiled successfully in 10215ms11:32:21 AM
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | 
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | <s> [webpack.Progress] 100% 
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | 
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | 
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    |   App running at:
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    |   - Local:   http://localhost:8080/ 
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | 
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    |   It seems you are running Vue CLI inside a container.
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    |   Access the dev server via http://localhost:<your container's external mapped port>/
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | 
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    |   Note that the development build is not optimized.
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    |   To create a production build, run npm run build.
+app_glowna_frontend.1.5l3lscni3ymg@centos-l2.novalocal    | 
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 49% building 331/334 modules 3 active /app/node_modules/core-js/internals/this-number-value.js
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 49% building 331/335 modules 4 active /app/node_modules/core-js/internals/string-repeat.js
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 49% building 331/336 modules 5 active /app/node_modules/vuelidate/lib/withParamsBrowser.js
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 49% building 332/336 modules 4 active /app/node_modules/vuelidate/lib/withParamsBrowser.js
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 49% building 333/336 modules 3 active /app/node_modules/vuelidate/lib/withParamsBrowser.js
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 50% building 334/336 modules 2 active /app/node_modules/vuelidate/lib/withParamsBrowser.js
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 50% building 335/336 modules 1 active /app/node_modules/vuelidate/lib/withParamsBrowser.js
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 50% building 336/336 modules 0 active 
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 50% building 336/337 modules 1 active /app/node_modules/jw-paginate/lib/jw-paginate.js
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 50% building 336/338 modules 2 active /app/node_modules/core-js/internals/whitespaces.js
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 50% building 337/338 modules 1 active /app/node_modules/core-js/internals/whitespaces.js
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 50% building 338/338 modules 0 active 
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 70% building 338/338 modules 0 active 
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 70% finish module graph
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 70% finish module graph FlagDependencyExportsPlugin
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 70% sealing
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 70% sealing WarnCaseSensitiveModulesPlugin
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 72% basic dependencies optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 72% dependencies optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 73% advanced dependencies optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 73% after dependencies optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 71% chunk graph
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 71% after chunk graph
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 71% after chunk graph WebAssemblyModulesPlugin
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 74% optimizing
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 74% basic module optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 75% module optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 75% advanced module optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 76% after module optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 76% basic chunk optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 76% basic chunk optimization EnsureChunkConditionsPlugin
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 76% basic chunk optimization RemoveEmptyChunksPlugin
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 76% basic chunk optimization MergeDuplicateChunksPlugin
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 77% chunk optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 77% advanced chunk optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 77% advanced chunk optimization SplitChunksPlugin
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 77% advanced chunk optimization RemoveEmptyChunksPlugin
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 77% after chunk optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 78% module and chunk tree optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 78% after module and chunk tree optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 79% basic chunk modules optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 80% chunk modules optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 80% advanced chunk modules optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 81% after chunk modules optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 81% module reviving
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 81% module reviving RecordIdsPlugin
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 82% module order optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 82% advanced module order optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 83% before module ids
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 83% before module ids NamedModulesPlugin
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 83% module ids
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 84% module id optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 84% module id optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 85% chunk reviving
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 85% chunk reviving RecordIdsPlugin
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 85% chunk order optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 85% chunk order optimization OccurrenceOrderChunkIdsPlugin
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 86% before chunk ids
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 86% before chunk ids NamedChunksPlugin
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 86% chunk id optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 87% after chunk id optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 87% record modules
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 87% record modules RecordIdsPlugin
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 87% record chunks
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 87% record chunks RecordIdsPlugin
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 88% hashing
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 88% after hashing
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 88% after hashing HotModuleReplacementPlugin
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 89% record hash
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 89% module assets processing
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 90% chunk assets processing
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 90% additional chunk assets processing
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 90% additional chunk assets processing HotModuleReplacementPlugin
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 91% recording
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 91% recording HotModuleReplacementPlugin
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 92% additional asset processing
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 92% chunk asset optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 93% after chunk asset optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 93% asset optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 94% after asset optimization
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 94% after seal
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 95% emitting
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 95% emitting HtmlWebpackPlugin
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 95% emitting CopyPlugin
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 98% after emitting
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 98% after emitting CopyPlugin
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    |  DONE  Compiled successfully in 9879ms3:00:52 PM
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | 
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | <s> [webpack.Progress] 100% 
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | 
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | 
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    |   App running at:
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    |   - Local:   http://localhost:8080/ 
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | 
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    |   It seems you are running Vue CLI inside a container.
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    |   Access the dev server via http://localhost:<your container's external mapped port>/
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | 
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    |   Note that the development build is not optimized.
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    |   To create a production build, run npm run build.
+app_glowna_frontend.1.ym8ibr9e6kpg@centos-l2.novalocal    | 

@@ -1,0 +1,300 @@
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 08:25:00,042: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[903f3c74-2524-4308-b336-c481e776af40]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 20:25:00,096: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[89d89335-c9f3-42aa-b900-4524887b1d86]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 08:25:00,067: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[903f3c74-2524-4308-b336-c481e776af40] succeeded in 0.01977591821923852s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 08:30:00,097: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[d899daa5-cced-4121-a689-c329ca2a3508]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 20:25:00,116: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[89d89335-c9f3-42aa-b900-4524887b1d86] succeeded in 0.017190423794090748s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 20:30:00,062: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[11be9e01-bda2-4f58-9d87-aa40d091016c]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 08:30:00,122: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[d899daa5-cced-4121-a689-c329ca2a3508] succeeded in 0.020346408244222403s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 08:35:00,069: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[5260d4a5-2e87-475f-8b6f-482cc2bbf563]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 20:30:00,087: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[11be9e01-bda2-4f58-9d87-aa40d091016c] succeeded in 0.020953265018761158s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 20:35:00,091: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[a20f7b2f-298d-4265-914c-25a09b74a56a]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 20:35:00,111: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[a20f7b2f-298d-4265-914c-25a09b74a56a] succeeded in 0.016592361964285374s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 08:35:00,088: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[5260d4a5-2e87-475f-8b6f-482cc2bbf563] succeeded in 0.016234722919762135s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 20:40:00,062: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[b06387a1-a155-4926-9d1d-ae03c957f443]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 20:40:00,085: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[b06387a1-a155-4926-9d1d-ae03c957f443] succeeded in 0.018276563845574856s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 08:40:00,076: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[67d26459-3358-45a0-bf72-7ad60a7db3d0]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 20:45:00,104: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[8ce277fc-3ab9-4014-9df6-fd2ea01c0a0d]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 08:40:00,095: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[67d26459-3358-45a0-bf72-7ad60a7db3d0] succeeded in 0.015570716001093388s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 08:45:00,063: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[cdc18a87-5011-4d31-837e-865c9f066d64]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 20:45:00,122: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[8ce277fc-3ab9-4014-9df6-fd2ea01c0a0d] succeeded in 0.01516823098063469s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 08:45:00,087: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[cdc18a87-5011-4d31-837e-865c9f066d64] succeeded in 0.020324309822171926s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 20:50:00,043: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[87e1c8ed-2e66-4baa-9807-7c1b7e4aa2f9]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 20:50:00,070: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[87e1c8ed-2e66-4baa-9807-7c1b7e4aa2f9] succeeded in 0.02073938911780715s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 12:45:00,097: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[ffc2f388-1bb4-4188-9e34-b90bde578327]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 08:50:00,096: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[1804881f-0919-4e0f-851c-720f1febdebd]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 08:50:00,116: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[1804881f-0919-4e0f-851c-720f1febdebd] succeeded in 0.016811526846140623s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 20:55:00,082: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[c1d7e47e-46ff-4273-bddd-bbac52736844]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 12:45:00,123: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[ffc2f388-1bb4-4188-9e34-b90bde578327] succeeded in 0.0212537357583642s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 20:55:00,106: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[c1d7e47e-46ff-4273-bddd-bbac52736844] succeeded in 0.01968406420201063s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 12:50:00,082: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[5c3254dc-0dda-43d9-a941-b688d36401d5]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:00:00,094: INFO/MainProcess] Received task: Exchange.tasks.regenerate_stocks[fa5c7c27-20b9-4c81-ba46-af1cc7590406]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:00:00,096: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[e2bc6681-0111-4b0c-8900-4903de5e21ed]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:00:00,103: INFO/MainProcess] Received task: Exchange.tasks.recalculate_prices_interval[1e285fba-9e8a-48c9-b5d3-2f2220272f84]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 12:50:00,108: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[5c3254dc-0dda-43d9-a941-b688d36401d5] succeeded in 0.02027296693995595s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:00:00,114: INFO/ForkPoolWorker-3] Task Exchange.tasks.match_sell_buy_offers[e2bc6681-0111-4b0c-8900-4903de5e21ed] succeeded in 0.015266701113432646s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 12:55:00,042: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[5502baca-9af8-40e8-bfd1-9c63c2903284]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:00:00,214: INFO/ForkPoolWorker-2] Task Exchange.tasks.regenerate_stocks[fa5c7c27-20b9-4c81-ba46-af1cc7590406] succeeded in 0.11548855528235435s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 12:55:00,065: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[5502baca-9af8-40e8-bfd1-9c63c2903284] succeeded in 0.018138783983886242s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:00:00,364: INFO/ForkPoolWorker-2] Task Exchange.tasks.recalculate_prices_interval[1e285fba-9e8a-48c9-b5d3-2f2220272f84] succeeded in 0.14725634595379233s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:05:00,068: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[f12352a2-6233-4c03-99f8-db07b4b49351]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:00:00,095: INFO/MainProcess] Received task: Exchange.tasks.regenerate_stocks[5c5d75a6-1d27-4f7d-a018-452a91474ec4]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:05:00,095: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[f12352a2-6233-4c03-99f8-db07b4b49351] succeeded in 0.02239881595596671s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:00:00,103: INFO/MainProcess] Received task: Exchange.tasks.recalculate_prices_interval[28ffb8d7-042c-4057-b630-38c4de6c1c0b]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:00:00,105: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[f4d30e99-e5a8-45fd-be71-e2674e559c58]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:10:00,028: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[2dcb50f8-d6c7-4a0e-9563-b95970b211bb]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 08:55:00,078: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[7cc01ec6-bcba-4151-9318-ed240b25f228]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:10:00,052: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[2dcb50f8-d6c7-4a0e-9563-b95970b211bb] succeeded in 0.019522287882864475s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 08:55:00,101: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[7cc01ec6-bcba-4151-9318-ed240b25f228] succeeded in 0.01929048914462328s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:15:00,016: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[bb00b667-8e9f-4f43-8186-d8fe3564509d]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:00:00,070: INFO/MainProcess] Received task: Exchange.tasks.regenerate_stocks[c34510c5-65b9-4b79-9d2e-5d1cec88a32a]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:15:00,045: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[bb00b667-8e9f-4f43-8186-d8fe3564509d] succeeded in 0.02498545916751027s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:00:00,079: INFO/MainProcess] Received task: Exchange.tasks.recalculate_prices_interval[2e680e85-a63f-44d7-986a-d65def98c5be]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:20:00,064: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[8e69b704-0880-472a-91c8-3e3e7d961ea3]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:00:00,080: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[1b355c58-739d-4195-8752-d6080533545c]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:00:00,099: INFO/ForkPoolWorker-3] Task Exchange.tasks.match_sell_buy_offers[1b355c58-739d-4195-8752-d6080533545c] succeeded in 0.01613083900883794s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:20:00,086: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[8e69b704-0880-472a-91c8-3e3e7d961ea3] succeeded in 0.01702208910137415s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:00:00,188: INFO/ForkPoolWorker-2] Task Exchange.tasks.regenerate_stocks[c34510c5-65b9-4b79-9d2e-5d1cec88a32a] succeeded in 0.11446208320558071s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:25:00,043: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[508dde77-692a-4f6a-8638-c20516530ad2]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:25:00,068: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[508dde77-692a-4f6a-8638-c20516530ad2] succeeded in 0.02087829913944006s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:00:00,310: INFO/ForkPoolWorker-2] Task Exchange.tasks.recalculate_prices_interval[2e680e85-a63f-44d7-986a-d65def98c5be] succeeded in 0.1196711640805006s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:30:00,104: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[0775485d-dc0f-4396-83d3-e6824e557002]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:05:00,104: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[81a73102-0922-4511-a6ad-cb099992edd0]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:00:00,126: INFO/ForkPoolWorker-3] Task Exchange.tasks.match_sell_buy_offers[f4d30e99-e5a8-45fd-be71-e2674e559c58] succeeded in 0.018375196028500795s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:30:00,131: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[0775485d-dc0f-4396-83d3-e6824e557002] succeeded in 0.02332131890580058s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:05:00,123: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[81a73102-0922-4511-a6ad-cb099992edd0] succeeded in 0.015907492022961378s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:00:00,217: INFO/ForkPoolWorker-2] Task Exchange.tasks.regenerate_stocks[5c5d75a6-1d27-4f7d-a018-452a91474ec4] succeeded in 0.11814898811280727s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:35:00,059: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[1545ab65-713f-42f9-8fb8-5a4913ee284d]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:35:00,079: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[1545ab65-713f-42f9-8fb8-5a4913ee284d] succeeded in 0.01697507407516241s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:10:00,071: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[74ab28af-f18a-456d-ae2b-c271cd9b8098]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:00:00,349: INFO/ForkPoolWorker-2] Task Exchange.tasks.recalculate_prices_interval[28ffb8d7-042c-4057-b630-38c4de6c1c0b] succeeded in 0.12946350267156959s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:10:00,100: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[74ab28af-f18a-456d-ae2b-c271cd9b8098] succeeded in 0.024692151229828596s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:40:00,045: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[af2bda58-3f21-4f69-83eb-6185231a1b2c]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:05:00,069: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[c8bd8698-b488-4415-998c-be6fa28dfee0]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:40:00,072: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[af2bda58-3f21-4f69-83eb-6185231a1b2c] succeeded in 0.023542911745607853s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:15:00,073: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[2fef6832-0743-47db-ba24-78625c320b7c]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:45:00,076: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[ad227ef3-dc89-41dd-9671-86359b297f60]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:15:00,095: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[2fef6832-0743-47db-ba24-78625c320b7c] succeeded in 0.01832029828801751s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:05:00,100: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[c8bd8698-b488-4415-998c-be6fa28dfee0] succeeded in 0.024264751002192497s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:20:00,068: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[01679cbd-5a3a-4a2d-86a6-427ad8ee9f85]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:10:00,069: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[e8de258b-7a16-46c5-8436-ce73e0f75ae7]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:10:00,090: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[e8de258b-7a16-46c5-8436-ce73e0f75ae7] succeeded in 0.01611529616639018s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:20:00,086: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[01679cbd-5a3a-4a2d-86a6-427ad8ee9f85] succeeded in 0.014824900776147842s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:45:00,103: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[ad227ef3-dc89-41dd-9671-86359b297f60] succeeded in 0.022942835930734873s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:25:00,049: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[ae7eff85-c655-45d9-a7a6-0203c9242e35]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:50:00,061: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[cb5c894f-cf9c-473b-aa7f-802b37b34095]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:25:00,074: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[ae7eff85-c655-45d9-a7a6-0203c9242e35] succeeded in 0.019871265161782503s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:50:00,086: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[cb5c894f-cf9c-473b-aa7f-802b37b34095] succeeded in 0.020998711232095957s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:30:00,080: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[5b0761f3-0c41-4c3b-9890-395bdbe7b411]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:55:00,090: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[a5e987e8-3aee-4b3d-a2fc-062fa96dc3f9]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:30:00,107: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[5b0761f3-0c41-4c3b-9890-395bdbe7b411] succeeded in 0.02209009788930416s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:35:00,088: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[f230c6d8-dc75-4816-8f56-06b38cdc0f24]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 21:55:00,109: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[a5e987e8-3aee-4b3d-a2fc-062fa96dc3f9] succeeded in 0.01536807045340538s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:35:00,111: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[f230c6d8-dc75-4816-8f56-06b38cdc0f24] succeeded in 0.01874038716778159s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:00:00,098: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[96016214-c738-4be7-8f36-7373e867bd1a]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:40:00,089: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[6298cfe3-9a11-4222-a1eb-6d9f004dfd6f]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:00:00,100: INFO/MainProcess] Received task: Exchange.tasks.recalculate_prices_interval[f159c2d3-4862-41d6-b40d-3e24b119bc4c]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:00:00,103: INFO/MainProcess] Received task: Exchange.tasks.regenerate_stocks[78361366-1d29-422f-adb3-62178b737748]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:40:00,117: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[6298cfe3-9a11-4222-a1eb-6d9f004dfd6f] succeeded in 0.021195617970079184s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:00:00,116: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[96016214-c738-4be7-8f36-7373e867bd1a] succeeded in 0.014281513169407845s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:00:00,280: INFO/ForkPoolWorker-2] Task Exchange.tasks.recalculate_prices_interval[f159c2d3-4862-41d6-b40d-3e24b119bc4c] succeeded in 0.1630101939663291s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:45:00,093: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[d80a3843-c246-476d-a0b9-226133c407ed]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:00:00,388: INFO/ForkPoolWorker-2] Task Exchange.tasks.regenerate_stocks[78361366-1d29-422f-adb3-62178b737748] succeeded in 0.1066857329569757s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:45:00,117: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[d80a3843-c246-476d-a0b9-226133c407ed] succeeded in 0.019365333952009678s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:05:00,102: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[09c4d5c0-f6da-4e64-b8ef-d71369a47486]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:50:00,068: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[b787f013-eb69-42c4-ab52-c460f5fb4574]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:05:00,122: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[09c4d5c0-f6da-4e64-b8ef-d71369a47486] succeeded in 0.016554024070501328s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:50:00,095: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[b787f013-eb69-42c4-ab52-c460f5fb4574] succeeded in 0.023001518100500107s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:10:00,076: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[f68d87f1-943d-4cc6-8a99-fcbf674b63fd]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:10:00,099: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[f68d87f1-943d-4cc6-8a99-fcbf674b63fd] succeeded in 0.01747739827260375s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:55:00,069: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[2b43b3ac-9d48-48b5-bacc-7aaa9aac53a5]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:15:00,094: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[facfcff2-f99e-4ebc-9c2d-744ba40bf827]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 09:55:00,092: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[2b43b3ac-9d48-48b5-bacc-7aaa9aac53a5] succeeded in 0.01924177072942257s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:15:00,114: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[facfcff2-f99e-4ebc-9c2d-744ba40bf827] succeeded in 0.016058895271271467s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:20:00,095: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[6d087119-0840-45ce-ae8a-02470ea17b67]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:00:00,104: INFO/MainProcess] Received task: Exchange.tasks.recalculate_prices_interval[2f6936db-9c89-4ae0-b1d6-e3b872a6e823]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:00:00,114: INFO/MainProcess] Received task: Exchange.tasks.regenerate_stocks[a0e040d1-74b6-4b9d-9938-20b21c33c2d6]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:20:00,121: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[6d087119-0840-45ce-ae8a-02470ea17b67] succeeded in 0.02097515808418393s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:00:00,115: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[0a97dd71-99d6-42cf-9886-dc9df007ef27]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:25:00,077: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[38abc3ff-4467-48cb-9cf4-2a4004c10a37]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:25:00,097: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[38abc3ff-4467-48cb-9cf4-2a4004c10a37] succeeded in 0.016358282417058945s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:00:00,140: INFO/ForkPoolWorker-3] Task Exchange.tasks.match_sell_buy_offers[0a97dd71-99d6-42cf-9886-dc9df007ef27] succeeded in 0.020820701029151678s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:00:00,252: INFO/ForkPoolWorker-2] Task Exchange.tasks.recalculate_prices_interval[2f6936db-9c89-4ae0-b1d6-e3b872a6e823] succeeded in 0.1437142980284989s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:00:00,350: INFO/ForkPoolWorker-2] Task Exchange.tasks.regenerate_stocks[a0e040d1-74b6-4b9d-9938-20b21c33c2d6] succeeded in 0.0958132091909647s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:30:00,078: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[a582ab2d-525d-4a3c-860d-d72439efafe1]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:05:00,094: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[483a4fb4-577c-4266-bd52-976c4cd90c60]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:30:00,098: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[a582ab2d-525d-4a3c-860d-d72439efafe1] succeeded in 0.01683402108028531s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:05:00,117: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[483a4fb4-577c-4266-bd52-976c4cd90c60] succeeded in 0.018541089724749327s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:10:00,106: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[c429b5cc-5cde-4a32-87c8-27f6adfa383e]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:35:00,085: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[1ed796f4-8301-40ea-aff9-142aca6edb73]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:10:00,127: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[c429b5cc-5cde-4a32-87c8-27f6adfa383e] succeeded in 0.018482686951756477s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:15:00,062: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[e7e0cd9a-6303-46ec-8926-ef2a2ef07e7a]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:15:00,083: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[e7e0cd9a-6303-46ec-8926-ef2a2ef07e7a] succeeded in 0.017568429000675678s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:35:00,106: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[1ed796f4-8301-40ea-aff9-142aca6edb73] succeeded in 0.017423188779503107s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:40:00,080: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[b315cb21-60a2-4088-98b1-94424e6a84eb]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:20:00,048: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[2c79daeb-9dd6-4213-a684-ca58bfac45bd]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:20:00,072: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[2c79daeb-9dd6-4213-a684-ca58bfac45bd] succeeded in 0.01939948508515954s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:40:00,099: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[b315cb21-60a2-4088-98b1-94424e6a84eb] succeeded in 0.015883905347436666s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:25:00,048: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[fac5443f-3312-454b-97b5-bd5e1c2c0258]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:45:00,088: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[b641bca1-94ff-434c-b2ce-80ae3d51438d]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:45:00,109: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[b641bca1-94ff-434c-b2ce-80ae3d51438d] succeeded in 0.017656989861279726s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:25:00,067: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[fac5443f-3312-454b-97b5-bd5e1c2c0258] succeeded in 0.016123224049806595s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:50:00,097: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[618bf0ea-4ef5-4026-ae65-9c31f68bbd63]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:30:00,081: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[fd6a6d51-07d5-4197-b8fe-17c7806a17e5]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:50:00,116: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[618bf0ea-4ef5-4026-ae65-9c31f68bbd63] succeeded in 0.016274303663522005s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:30:00,112: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[fd6a6d51-07d5-4197-b8fe-17c7806a17e5] succeeded in 0.025480464100837708s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:55:00,100: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[f0815e5e-e442-4058-a69a-ba49675f4be0]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:35:00,088: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[de6bad26-ff5f-43c2-b1c3-9cec9410e09b]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 22:55:00,120: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[f0815e5e-e442-4058-a69a-ba49675f4be0] succeeded in 0.016589439939707518s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:35:00,107: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[de6bad26-ff5f-43c2-b1c3-9cec9410e09b] succeeded in 0.01609094813466072s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:00:00,099: INFO/MainProcess] Received task: Exchange.tasks.recalculate_prices_interval[46fc8ca5-e885-49a1-bf68-bcbb12b81b62]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:40:00,102: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[b8fc2eb1-3459-4e63-a18c-01452166ba48]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:00:00,102: INFO/MainProcess] Received task: Exchange.tasks.regenerate_stocks[f080b018-2070-4fd0-9095-8d9b36605a80]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:00:00,103: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[0dbad807-eb82-45c0-8202-f22914614e41]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:40:00,124: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[b8fc2eb1-3459-4e63-a18c-01452166ba48] succeeded in 0.017792943865060806s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:45:00,059: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[6765377b-1111-4f00-b038-9ae2758f13a6]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | /usr/lib/python3.8/site-packages/celery/platforms.py:797: RuntimeWarning: You're running the worker with superuser privileges: this is
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:45:00,081: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[6765377b-1111-4f00-b038-9ae2758f13a6] succeeded in 0.0182300740852952s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | absolutely not recommended!
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | 
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:50:00,088: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[c8375a1b-e72c-47bb-ac7d-ffd32e8305e8]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:50:00,108: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[c8375a1b-e72c-47bb-ac7d-ffd32e8305e8] succeeded in 0.01679538283497095s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | Please specify a different user using the --uid option.
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:55:00,100: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[37371c26-12c0-40dd-a0d9-1ccf4fd77df1]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | 
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 10:55:00,122: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[37371c26-12c0-40dd-a0d9-1ccf4fd77df1] succeeded in 0.01816314272582531s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | User information: uid=0 euid=0 gid=0 egid=0
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 11:00:00,028: INFO/MainProcess] Received task: Exchange.tasks.regenerate_stocks[6340849b-d738-43e9-b59f-7e3adf6d893a]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | 
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 11:00:00,031: INFO/MainProcess] Received task: Exchange.tasks.recalculate_prices_interval[205c525e-c247-4466-93d7-c56a5e737e52]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    |   warnings.warn(RuntimeWarning(ROOT_DISCOURAGED.format(
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 11:00:00,032: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[c9cfe326-652b-4c8e-b448-245d29adf252]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:00:00,137: INFO/ForkPoolWorker-1] Task Exchange.tasks.match_sell_buy_offers[0dbad807-eb82-45c0-8202-f22914614e41] succeeded in 0.024118145927786827s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 11:00:00,051: INFO/ForkPoolWorker-3] Task Exchange.tasks.match_sell_buy_offers[c9cfe326-652b-4c8e-b448-245d29adf252] succeeded in 0.015236735809594393s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 11:00:00,148: INFO/ForkPoolWorker-2] Task Exchange.tasks.regenerate_stocks[6340849b-d738-43e9-b59f-7e3adf6d893a] succeeded in 0.11560777807608247s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:00:00,247: INFO/ForkPoolWorker-3] Task Exchange.tasks.regenerate_stocks[f080b018-2070-4fd0-9095-8d9b36605a80] succeeded in 0.13787794671952724s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:00:00,292: INFO/ForkPoolWorker-2] Task Exchange.tasks.recalculate_prices_interval[46fc8ca5-e885-49a1-bf68-bcbb12b81b62] succeeded in 0.18609206099063158s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [2020-11-17 11:00:00,265: INFO/ForkPoolWorker-2] Task Exchange.tasks.recalculate_prices_interval[205c525e-c247-4466-93d7-c56a5e737e52] succeeded in 0.11644291691482067s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:05:00,088: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[c02b01df-b321-41ee-92df-8b8a172b319e]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | 
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | worker: Warm shutdown (MainProcess)
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:05:00,109: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[c02b01df-b321-41ee-92df-8b8a172b319e] succeeded in 0.01662936480715871s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:10:00,090: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[10c2f818-c8ad-47dd-8a77-f375c137518a]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:10:00,109: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[10c2f818-c8ad-47dd-8a77-f375c137518a] succeeded in 0.01577024208381772s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:15:00,067: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[e35257b3-0a45-49d4-a31b-e650e33a8bfb]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    |  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:15:00,087: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[e35257b3-0a45-49d4-a31b-e650e33a8bfb] succeeded in 0.016264876816421747s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:20:00,079: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[b3e91be7-6a29-4871-8ed7-65d7b5e07da3]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    |  -------------- celery@3863015deb6c v5.0.1 (singularity)
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | --- ***** ----- 
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:20:00,100: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[b3e91be7-6a29-4871-8ed7-65d7b5e07da3] succeeded in 0.016660904977470636s: None
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:25:00,011: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[319d9493-4125-4241-b3c3-6c2914602477]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:25:00,036: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[319d9493-4125-4241-b3c3-6c2914602477] succeeded in 0.019517480861395597s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | -- ******* ---- Linux-3.10.0-1127.19.1.el7.x86_64-x86_64-with 2020-11-13 16:06:00
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:30:00,073: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[9a052a4a-d8e2-416d-ae01-bc81afcfaba0]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | - *** --- * --- 
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:30:00,095: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[9a052a4a-d8e2-416d-ae01-bc81afcfaba0] succeeded in 0.01839682413265109s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | - ** ---------- [config]
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:35:00,099: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[836ff14a-2b11-4e49-87b9-a0e57f49f1b6]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | - ** ---------- .> app:         BackendServer:0x7f2a88400490
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | - ** ---------- .> transport:   amqp://guest:**@rabbitmq:5672//
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:35:00,119: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[836ff14a-2b11-4e49-87b9-a0e57f49f1b6] succeeded in 0.01675582118332386s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | - ** ---------- .> results:     disabled://
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:40:00,071: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[80d4adb0-6507-4a5a-ab80-a15cabb11170]  
+app_glowna_celery.1.6gx2qv86xil6@centos-l2.novalocal    | [2020-11-17 23:40:00,095: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[80d4adb0-6507-4a5a-ab80-a15cabb11170] succeeded in 0.01945148827508092s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | - *** --- * --- .> concurrency: 4 (prefork)
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | --- ***** ----- 
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:15:00,054: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[e343ebaf-f525-454a-8d18-237af69b9b39]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    |  -------------- [queues]
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:15:00,081: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[e343ebaf-f525-454a-8d18-237af69b9b39] succeeded in 0.020105499774217606s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    |                 .> celery           exchange=celery(direct) key=celery
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:20:00,062: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[0dd6932c-1939-4fb2-8c64-184519286645]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    |                 
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:20:00,083: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[0dd6932c-1939-4fb2-8c64-184519286645] succeeded in 0.016332920640707016s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | 
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:25:00,102: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[e6b28ebf-7e99-4f73-95a7-f800c5e4fa57]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | [tasks]
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:25:00,123: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[e6b28ebf-7e99-4f73-95a7-f800c5e4fa57] succeeded in 0.016561977099627256s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    |   . Exchange.tasks.match_sell_buy_offers
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:30:00,104: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[5c67b8ce-033b-4033-b23e-092ad74b95f1]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    |   . Exchange.tasks.recalculate_prices
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:30:00,129: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[5c67b8ce-033b-4033-b23e-092ad74b95f1] succeeded in 0.018340046983212233s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    |   . Exchange.tasks.recalculate_prices_interval
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:35:00,042: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[c20ac393-bfb3-4dd5-b345-bfe93d6b3c62]  
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    |   . Exchange.tasks.regenerate_stocks
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:35:00,066: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[c20ac393-bfb3-4dd5-b345-bfe93d6b3c62] succeeded in 0.01785970525816083s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:40:00,088: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[2d61742e-d141-4a39-b604-499a5c785fae]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:40:00,108: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[2d61742e-d141-4a39-b604-499a5c785fae] succeeded in 0.016460011713206768s: None
+app_glowna_celery.1.fysrzf91d19c@centos-l2.novalocal    | 
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:45:00,070: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[37976f00-1f80-4fe2-8791-14328023587d]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:45:00,088: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[37976f00-1f80-4fe2-8791-14328023587d] succeeded in 0.014579911716282368s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:50:00,068: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[3fc847fc-0496-461f-93e9-0ad729581780]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:50:00,090: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[3fc847fc-0496-461f-93e9-0ad729581780] succeeded in 0.01691653812304139s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:55:00,017: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[bd92ffec-3b11-4338-bd92-cef5eb4fc9f4]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 13:55:00,045: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[bd92ffec-3b11-4338-bd92-cef5eb4fc9f4] succeeded in 0.02228106278926134s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:00:00,062: INFO/MainProcess] Received task: Exchange.tasks.recalculate_prices_interval[cfd2f3b5-6413-4fa8-a372-621863111183]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:00:00,064: INFO/MainProcess] Received task: Exchange.tasks.regenerate_stocks[45deda76-d7a5-4519-b921-505aabbecef0]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:00:00,065: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[ff3bb13c-bccf-4dfa-8a8e-0ad54716c266]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | /usr/lib/python3.8/site-packages/celery/platforms.py:797: RuntimeWarning: You're running the worker with superuser privileges: this is
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | absolutely not recommended!
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | 
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | Please specify a different user using the --uid option.
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | 
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | User information: uid=0 euid=0 gid=0 egid=0
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | 
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    |   warnings.warn(RuntimeWarning(ROOT_DISCOURAGED.format(
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:00:00,101: INFO/ForkPoolWorker-1] Task Exchange.tasks.match_sell_buy_offers[ff3bb13c-bccf-4dfa-8a8e-0ad54716c266] succeeded in 0.028870586771517992s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:00:00,185: INFO/ForkPoolWorker-3] Task Exchange.tasks.regenerate_stocks[45deda76-d7a5-4519-b921-505aabbecef0] succeeded in 0.1147717759013176s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:00:00,201: INFO/ForkPoolWorker-2] Task Exchange.tasks.recalculate_prices_interval[cfd2f3b5-6413-4fa8-a372-621863111183] succeeded in 0.13149278098717332s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:05:00,080: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[0750248c-0419-47f9-9b23-1b0d28e3c096]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:05:00,102: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[0750248c-0419-47f9-9b23-1b0d28e3c096] succeeded in 0.017429179046303034s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:10:00,090: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[b949f8b4-cf8d-4c6f-a0d0-279aec499c41]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:10:00,120: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[b949f8b4-cf8d-4c6f-a0d0-279aec499c41] succeeded in 0.02336141187697649s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:15:00,072: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[f42aaee6-2cfe-42e1-99ff-b27e85f95022]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:15:00,094: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[f42aaee6-2cfe-42e1-99ff-b27e85f95022] succeeded in 0.017941212747246027s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:20:00,075: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[a77198fb-8116-4ee9-9923-2860ea7e0cf7]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:20:00,096: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[a77198fb-8116-4ee9-9923-2860ea7e0cf7] succeeded in 0.016570910345762968s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:25:00,043: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[f94d96e5-6f6b-4efa-bd00-0e3493a6a12d]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:25:00,069: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[f94d96e5-6f6b-4efa-bd00-0e3493a6a12d] succeeded in 0.018722816836088896s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:30:00,099: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[3a457d0e-28aa-4f97-91a7-1f363e521fc6]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:30:00,124: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[3a457d0e-28aa-4f97-91a7-1f363e521fc6] succeeded in 0.020645614247769117s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:35:00,064: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[5412c5ca-da6b-4582-9b98-508555e089e3]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:35:00,085: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[5412c5ca-da6b-4582-9b98-508555e089e3] succeeded in 0.016536232084035873s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:40:00,045: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[14a33e84-e7a4-4ade-baaf-93702b0c9dcc]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:40:00,066: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[14a33e84-e7a4-4ade-baaf-93702b0c9dcc] succeeded in 0.017189455218613148s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:45:00,098: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[7ec3c492-1c67-4bb8-895a-4f919a6a5462]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:45:00,119: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[7ec3c492-1c67-4bb8-895a-4f919a6a5462] succeeded in 0.016815384849905968s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:50:00,009: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[88356a6c-8e1c-49db-a66e-acbaec7741d4]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:50:00,033: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[88356a6c-8e1c-49db-a66e-acbaec7741d4] succeeded in 0.019178440794348717s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:55:00,063: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[80ae6dc7-8d51-4f0c-9061-b2cb4da2e879]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 14:55:00,086: INFO/ForkPoolWorker-2] Task Exchange.tasks.match_sell_buy_offers[80ae6dc7-8d51-4f0c-9061-b2cb4da2e879] succeeded in 0.01748619321733713s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 15:00:00,088: INFO/MainProcess] Received task: Exchange.tasks.regenerate_stocks[6d1106b3-07ff-4bbd-b873-bcecba6fc764]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 15:00:00,091: INFO/MainProcess] Received task: Exchange.tasks.recalculate_prices_interval[0e304535-7a49-4c81-acc0-4e7d985b8436]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 15:00:00,092: INFO/MainProcess] Received task: Exchange.tasks.match_sell_buy_offers[39198924-4653-429c-9223-3870c397b1ea]  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 15:00:00,122: INFO/ForkPoolWorker-1] Task Exchange.tasks.match_sell_buy_offers[39198924-4653-429c-9223-3870c397b1ea] succeeded in 0.024975817650556564s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 15:00:00,243: INFO/ForkPoolWorker-2] Task Exchange.tasks.regenerate_stocks[6d1106b3-07ff-4bbd-b873-bcecba6fc764] succeeded in 0.14708479400724173s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [2020-11-17 15:00:00,276: INFO/ForkPoolWorker-3] Task Exchange.tasks.recalculate_prices_interval[0e304535-7a49-4c81-acc0-4e7d985b8436] succeeded in 0.17485992005094886s: None
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | 
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | worker: Warm shutdown (MainProcess)
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    |  
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    |  -------------- celery@bfc62aa4320f v5.0.1 (singularity)
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | --- ***** ----- 
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | -- ******* ---- Linux-3.10.0-1127.19.1.el7.x86_64-x86_64-with 2020-11-17 11:00:25
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | - *** --- * --- 
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | - ** ---------- [config]
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | - ** ---------- .> app:         BackendServer:0x7ff4db203490
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | - ** ---------- .> transport:   amqp://guest:**@rabbitmq:5672//
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | - ** ---------- .> results:     disabled://
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | - *** --- * --- .> concurrency: 4 (prefork)
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | -- ******* ---- .> task events: OFF (enable -E to monitor tasks in this worker)
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | --- ***** ----- 
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    |  -------------- [queues]
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    |                 .> celery           exchange=celery(direct) key=celery
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    |                 
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | 
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | [tasks]
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    |   . Exchange.tasks.match_sell_buy_offers
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    |   . Exchange.tasks.recalculate_prices
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    |   . Exchange.tasks.recalculate_prices_interval
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    |   . Exchange.tasks.regenerate_stocks
+app_glowna_celery.1.ievyks54azoj@centos-l2.novalocal    | 

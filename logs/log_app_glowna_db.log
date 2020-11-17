@@ -1,0 +1,13 @@
+app_glowna_db.1.1rltw7irm6xx@centos-l2.novalocal    | 
+app_glowna_db.1.1rltw7irm6xx@centos-l2.novalocal    | PostgreSQL Database directory appears to contain a database; Skipping initialization
+app_glowna_db.1.1rltw7irm6xx@centos-l2.novalocal    | 
+app_glowna_db.1.1rltw7irm6xx@centos-l2.novalocal    | 2020-11-13 16:06:03.883 UTC [1] LOG:  starting PostgreSQL 13.1 (Debian 13.1-1.pgdg100+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 8.3.0-6) 8.3.0, 64-bit
+app_glowna_db.1.1rltw7irm6xx@centos-l2.novalocal    | 2020-11-13 16:06:03.883 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+app_glowna_db.1.1rltw7irm6xx@centos-l2.novalocal    | 2020-11-13 16:06:03.883 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+app_glowna_db.1.1rltw7irm6xx@centos-l2.novalocal    | 2020-11-13 16:06:03.892 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+app_glowna_db.1.1rltw7irm6xx@centos-l2.novalocal    | 2020-11-13 16:06:03.897 UTC [25] LOG:  database system was shut down at 2020-11-13 16:02:55 UTC
+app_glowna_db.1.1rltw7irm6xx@centos-l2.novalocal    | 2020-11-13 16:06:03.918 UTC [1] LOG:  database system is ready to accept connections
+app_glowna_db.1.1rltw7irm6xx@centos-l2.novalocal    | 2020-11-13 18:06:28.020 UTC [37] LOG:  could not receive data from client: Connection reset by peer
+app_glowna_db.1.1rltw7irm6xx@centos-l2.novalocal    | 2020-11-16 12:14:40.308 UTC [5218] LOG:  could not receive data from client: Connection reset by peer
+app_glowna_db.1.1rltw7irm6xx@centos-l2.novalocal    | 2020-11-17 13:00:42.036 UTC [7056] LOG:  could not receive data from client: Connection reset by peer
+app_glowna_db.1.1rltw7irm6xx@centos-l2.novalocal    | 2020-11-17 17:00:27.188 UTC [7358] LOG:  could not receive data from client: Connection reset by peer
