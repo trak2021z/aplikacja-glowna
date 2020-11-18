@@ -2,23 +2,17 @@
 
 
 ### Pobranie całej aplikacji:
-``` git clone --recursive https://github.com/aplikacje-internetowe-l2/aplikacja-glowna.git ```
+``` git clone https://github.com/aplikacje-internetowe-l2/aplikacja-glowna.git ```
 
 ### Wejście do folderu:
 ``` cd aplikacja-glowna ```
 
-### Zaktualizowanie submodule do main'a
-``` git submodule update ```
-
-Nie da się tego bardziej zautomatyzować, wynika to ze specyfikacji gita opisanej [tutaj](https://stackoverflow.com/questions/18770545/why-is-my-git-submodule-head-detached-from-master/55570998#55570998)
-
-
 ### Uruchomienie aplikacji:
-``` docker-compose up -d --build```
+``` docker stack deploy -c docker-compose.yaml app_glowna ```
 parametry sprawiają że aplikacja będzie postawiona od zera i nie będzie wykorzystywać starych komponentów
 
 ### Posprzątanie 
-```docker-compose down -v --rmi all --remove-orphans```
+```docker stack rm app_glowna```
 
 
 ### Korzystanie z aplikacji:
