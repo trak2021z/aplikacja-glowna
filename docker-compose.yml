@@ -10,9 +10,13 @@ services:
       - pgdata:/var/lib/postgresql/data
     ports:
       - 5432:5432
+    networks:
+      - stonks  
 
   backend:
-    image: misieq/weii_ai_aplikacja_glowna_backend
+    build: 
+      context: ./backend/
+      network: host
     container_name: backend-container
     restart: unless-stopped
     volumes:
@@ -28,9 +32,14 @@ services:
       - 8000:8000
     depends_on:
       - rabbitmq
+    networks:
+      - stonks  
+
 
   frontend:
-    image: misieq/weii_ai_aplikacja_glowna_frontend
+    build: 
+      context: ./frontend/
+      network: host
     container_name: frontend-container
     restart: unless-stopped
     environment:
@@ -39,6 +48,9 @@ services:
       - 8081:8080
     depends_on:
       - backend
+    networks:
+      - stonks
+
 
   rabbitmq:
     hostname: rabbit
@@ -51,9 +63,12 @@ services:
     ports:
         - "15672:15672"  
         - "5672:5672"
-
+    networks:
+      - stonks
+      
+      
   celery:
-    image: misieq/weii_ai_aplikacja_glowna_backend
+    build: ./backend/
     command: celery -A Exchange  worker -l info
     environment:
       - CELERY_BROKER_URL=amqp://guest:guest@rabbitmq:5672
@@ -63,9 +78,12 @@ services:
       - ./backend/BackendServer/:/app/
     depends_on:
       - frontend
-     
+    networks:
+      - stonks
+      
+      
   celery-beat:
-    image: misieq/weii_ai_aplikacja_glowna_backend
+    build: ./backend/
     command: celery -A Exchange  beat -l info
     volumes:
       - ./backend/BackendServer:/app/
@@ -75,6 +93,13 @@ services:
       - LC_TIME="pl_PL"
     depends_on:
       - frontend
-
+    networks:
+      - stonks
+      
+      
 volumes:
   pgdata:
+  
+networks:
+  stonks:
+    driver: bridge
