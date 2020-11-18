@@ -9,7 +9,7 @@
 
 ### Uruchomienie aplikacji:
 ``` docker stack deploy -c docker-compose.yaml app_glowna ```
-parametry sprawiają że aplikacja będzie postawiona od zera i nie będzie wykorzystywać starych komponentów
+
 
 ### Posprzątanie 
 ```docker stack rm app_glowna```
