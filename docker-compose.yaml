@@ -1,18 +1,35 @@
 version: '3.8'
-services:
-  db:
-    image: postgres
-    environment:
-      - POSTGRES_USER=postgres
-      - POSTGRES_PASSWORD=postgres
-      - POSTGRES_DB=postgres
-    volumes:
-      - pgdata:/var/lib/postgresql/data
-    ports:
-      - 5432:5432
-    networks:
-      - over
+services:  
 
+  pg_master:
+  image: 2hamed/pg_master
+  volumes:
+   - pg_data:/var/lib/postgresql/data
+  environment:
+   - POSTGRES_USER=postgres
+   - POSTGRES_PASSWORD=123456
+   - POSTGRES_DB=postgres
+   - PG_REP_USER=rep
+   - PG_REP_PASSWORD=postgres
+
+  networks:
+    over:
+      aliases:
+        - pg_cluster
+        
+ pg_slave:
+  image: 2hamed/pg_slave
+  environment:
+   - POSTGRES_USER=postgres
+   - POSTGRES_PASSWORD=123456
+   - POSTGRES_DB=postgres
+   - PG_REP_USER=rep
+   - PG_REP_PASSWORD=postgres
+   - PG_MASTER_HOST=pg_master
+  networks:
+    over:
+      aliases:
+        - pg_cluster
 
   backend:
     image: misieq/weii_ai_aplikacja_glowna_backend:latest
