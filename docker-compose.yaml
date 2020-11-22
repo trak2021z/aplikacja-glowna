@@ -4,7 +4,7 @@ services:
   pg_master:
   image: 2hamed/pg_master
   volumes:
-   - pg_data:/var/lib/postgresql/data
+   - pgdata:/var/lib/postgresql/data
   environment:
    - POSTGRES_USER=postgres
    - POSTGRES_PASSWORD=postgres
