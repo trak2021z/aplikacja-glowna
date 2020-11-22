@@ -7,7 +7,7 @@ services:
    - pg_data:/var/lib/postgresql/data
   environment:
    - POSTGRES_USER=postgres
-   - POSTGRES_PASSWORD=123456
+   - POSTGRES_PASSWORD=postgres
    - POSTGRES_DB=postgres
    - PG_REP_USER=rep
    - PG_REP_PASSWORD=postgres
@@ -22,7 +22,7 @@ services:
   image: 2hamed/pg_slave
   environment:
    - POSTGRES_USER=postgres
-   - POSTGRES_PASSWORD=123456
+   - POSTGRES_PASSWORD=postgres
    - POSTGRES_DB=postgres
    - PG_REP_USER=rep
    - PG_REP_PASSWORD=postgres
@@ -44,7 +44,7 @@ services:
       - LC_TIME="pl_PL"
       - RUN_MEMCACHE=TRUE
       - USE_POSTGRES=TRUE
-    command: sh -c '(./wait-for db:5432 -- ./db-ops.sh ) && memcached start -u memcached -d && (nohup python3 cpu_usage.py &) &&  python3 ./manage.py runserver 0.0.0.0:8000'
+    command: sh -c '(./wait-for pg_master:5432 -- ./db-ops.sh ) && memcached start -u memcached -d && (nohup python3 cpu_usage.py &) &&  python3 ./manage.py runserver 0.0.0.0:8000'
     ports: 
       - 8000:8000
     depends_on:
