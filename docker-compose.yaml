@@ -11,7 +11,8 @@ services:
    - POSTGRES_DB=postgres
    - PG_REP_USER=rep
    - PG_REP_PASSWORD=postgres
-
+  ports:
+    - 5432:5432
   networks:
     over:
       aliases:
