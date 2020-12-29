@@ -2,9 +2,9 @@
 	path = backend
 	branch = main
 	update = merge
-	url = https://github.com/aplikacje-internetowe-l2/backend-aplikacji-glownej
+	url = https://github.com/trak2021z/backend-aplikacji-glownej
 [submodule "frontend"]
 	path = frontend
 	branch = main
 	update = merge
-	url = https://github.com/aplikacje-internetowe-l2/frontend-aplikacji-glownej
+	url = https://github.com/trak2021z/frontend-aplikacji-glownej
